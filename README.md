@@ -31,13 +31,6 @@
 <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"> 
 <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff"> 
 
-## GitHub Stats
-
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=KEV0143&theme=dark&show_icons=true&count_private=true"><br>
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=KEV0143&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=KEV0143&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
-
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://t.me/ne_sravnim" target="_blank">Kllimkin Egor</a> Email: Ego.Klmn@gmail.com</p>
+<p align="center"> Link: <a href="https://t.me/ne_sravnim" target="_blank">Kllimkin Egor</a> Email: Ego.Klmn@gmail.com</p>
