@@ -4,9 +4,6 @@
   </a>
 </p>
 
-<!-- Блок со статистикой и просмотрами -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KEV0143&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KEV0143&show_icons=true&locale=ru&theme=tokyonight&count_private=true" alt="KEV0143's GitHub Stats" />
 </p>
