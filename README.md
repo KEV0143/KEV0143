@@ -4,24 +4,6 @@
   </a>
 </p>
 
----
-
-### Projects
-
-<!-- Карточки репозиториев, выровненные по центру -->
-<p align="center">
-  <a href="https://github.com/KEV0143/Telegram_Software_SMM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KEV0143&repo=Telegram_Software_SMM&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/KEV0143/Parser-Chitai-Gorod">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KEV0143&repo=Parser-Chitai-Gorod&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-### Stats
-
 <!-- Блок со статистикой и просмотрами -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KEV0143&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views" />
